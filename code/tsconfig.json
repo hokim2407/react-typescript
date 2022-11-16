@@ -10,5 +10,8 @@
     "strict": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
-  }
+    //추가
+     "jsxImportSource": "@emotion/react" 
+  },
+  "include": ["src", "types"]
 }
